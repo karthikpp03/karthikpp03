@@ -37,6 +37,6 @@
 [![](https://visitcount.itsvg.in/api?id=karthikpp03&icon=4&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)]((https://www.paypal.com/paypalme/KARTHIKPP03))
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)]((https://paypalme/KARTHIKPP03))
   
   
