@@ -25,7 +25,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=karthikpp03&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikpp03&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </p>
+
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=karthikpp03&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
