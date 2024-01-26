@@ -26,9 +26,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikpp03&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </p>
 
-## 🏆 GitHub Trophies
+## 🏆 Insights
 
-![](https://github-profile-trophy.vercel.app/?username=karthikpp03&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![](https://raw.githubusercontent.com/VishwaGauravIn/Images/f13849bc9989d66c67085313dd606ea978eff0f8/psi-gprm.svg)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
